@@ -4,7 +4,7 @@ description: Transform your supply chain from a cost center into a competitive m
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5107
+  version: 1.0.5108
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - supply-chain-as-strategy
